@@ -1,0 +1,6 @@
+nuke~=2.5.4
+logging~=0.4.9.6
+pytest~=7.4.0
+setuptools~=68.1.2
+PySide2~=5.15.2.1
+PyQt5~=5.15.9
